@@ -1,1 +1,1 @@
-This is my first file in a git repository.
+This is my first file in THIS git repository. Now I made changes and committed this new version.
